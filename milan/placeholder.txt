@@ -1,7 +1,0 @@
- 15:41:55 up 7 days,  4:45,  5 users,  load average: 1,01, 1,04, 1,00
-USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
-milan    tty7     :0               20úno18  7days  1:00m  0.46s /sbin/upstart --user
-milan    pts/6    :0.0             Pá15    4days  0.02s  0.02s bash
-milan    pts/4    :0.0             Pá14    4days 59.43s 59.40s /home/milan/miniconda3/envs/nonpher/bin/python /home/milan/miniconda3/envs/nonpher/bin/jupyter-notebook
-milan    pts/7    :0.0              Po14   24:53m  0.04s  0.04s bash
-milan    pts/8    147.33.98.57     15:33    3.00s  0.09s  0.00s w
